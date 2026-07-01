@@ -1,0 +1,26 @@
+{
+  "citations": [
+    "[blog.google](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0?oc=5)",
+    "[ALM Corp](https://news.google.com/rss/articles/CBMikgFBVV95cUxNNVlMUHR5YkM3QkpZSWcxZ2Qyb1BiZ19rYVZudHVlQjFzQmxJZEkwb1I4NTZsUjBGRmoxdmZ5OVFlOV81MUw2bHVJa1U4bURpTVd6LXd6RlQ5QklhWkxxYlcwSm83UDU1Rkl0SkxudEg3Wm1WNmQ4OEtBT3lDMEFRQjc3Smc4UlpxMG44bWZiUmRXdw?oc=5)",
+    "[Intelligent CIO](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUFZEM3hsRmZ1TS13RXQwUG1nQ2tBT2g5allzamxWSlgxdG1RVExJWGhfYkVtQ05oODJOUTNnVE1iSmI4eFNtVlVHWjk1cklJbE9LX29MTnA0ZEcxQmhpaG96Y1RFOTRMMlBoMmk2RWZ2Yk9ocmJNdkR5V2NONTVsaHVlTzVLSl8xaG92YUVnQm5TSGRoWm40VmJma2NVT3ZwQ0RpNUlfMFdsNkZCTWxkRF9iUmhIdjVIMVRKeF9iMTA3T1VTZmVzbWFmWVkwVWRvaWJIeE5CYw?oc=5)",
+    "[Dark Reading](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVVo4WmxQT1J1ZjA4UnlTa2RIVVBWYUNpQ2dKbm5xa2NfZWdPSXZneU1RdjhmOTk5dGtOQm4tcjZkM285SThCWVVHbFZaZ3NSLUpfWFlHSFhuMkhOYlFEd3NiWGxHSmlOS0JjZFhRVmxzdWJnbm5BZDZlN3VZMUd4SUNkWDFWVFQwaGU5VWtmWQ?oc=5)",
+    "[Time Magazine](https://news.google.com/rss/articles/CBMinwFBVV95cUxNUFhpNHE1WklTbnVyR0tGR3c4OG1OdWxfeUJSQVZya1dTWXVzVnNQY3RSay1xQkZwc3hKRjMzblEwOVpiMXVhWHR4ZVJTUXdZRWl6dWQ5UUdxZGd1MDA1RUpMUV9LWTNnRWo1M0dCSlYtUnYyN2lqMFFzUXU2d0lET2wzdC1HeVlxR29BQzh1U1lRS0psREM0NmNsdURURUk?oc=5)"
+  ],
+  "design_plan": "rng=42; architecture=reused_comparison_visuals; AIDA=pass; hero_max_width=1120; bento_density=grid-auto-flow:dense verified; competitors_label_sweep=all_present; CTA_contrast=black/white pills checked",
+  "generated_at": "2026-07-01T03:51:40.658795+00:00",
+  "headline": "Super for creators and coaches turning conversations into content and operations",
+  "site_brief": {
+    "audience": "creators and coaches turning conversations into content and operations",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "creators and coaches turning conversations into content and operations AI assistant",
+      "creators and coaches turning conversations into content and operations personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-creators-and-coaches-turning-conversations-into",
+    "title": "Super for creators and coaches turning conversations into content and operations"
+  },
+  "summary": "A conversion\u2011focused niche landing page for creators and coaches who want a personal AI agent that actually operates a computer. Super turns calls, DMs, and live sessions into repeatable content and ops \u2014 faster over time thanks to a reusable computer-use cache."
+}
